@@ -43,7 +43,7 @@
 ---
 
 ## 🌱 About Me
-- 🎓 Background in **Linguistics (MGIMO, MGLU)**, which helps in analytical thinking and working with documentation.  
+- 🎓 Background in **Linguistics (MGIMO, MSLU)**, which helps in analytical thinking and working with documentation.  
 - ✨ Interested in football and computer games (especially extraction shooters and RPGs).  
 
 ---
