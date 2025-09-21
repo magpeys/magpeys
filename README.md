@@ -1,6 +1,6 @@
 # 👋 Howdy, stranger! My name is Margarita and I am
 
-🎯 **Aspiring QA Engineer** with hands-on training in manual testing of **Web, Mobile, and API** applications.  
+🎯 **QA Engineer** with hands-on training in manual testing of **Web, Mobile, and API** applications.  
 💡 Passionate about quality assurance, detail-oriented, and constantly learning new tools and approaches.  
 🌍 Languages: English (C2), Spanish (C1), Russian (native).
 
