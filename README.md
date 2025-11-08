@@ -2,7 +2,7 @@
 ### Breaking builds before they break players ⚡
 
 🕹️ I test games with a player’s curiosity and a perfectionist’s eye — making sure every build feels smooth, stable, and fun to explore.  
-🎮 I have hands-on experience testing **Web, Mobile, and API** applications.  
+🎮 I have hands-on experience testing **Web, Mobile, and API**.  
 🌍 Languages: English (C2), Spanish (C1), Russian (native).
 
 ---
