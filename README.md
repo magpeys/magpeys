@@ -50,6 +50,12 @@
 
 ---
 
+## 📝 My CV
+
+- [**📄 Open Resume**](https://drive.google.com/file/d/1IjHaFwLihh9x_AWzyRZhWGIkLUy7Alr1/view?usp=sharing)  
+
+---
+
 ## 🌱 About Me
 
 - 🎓 Background in **Linguistics (MGIMO, MSLU)**  
